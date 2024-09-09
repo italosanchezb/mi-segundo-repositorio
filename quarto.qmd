@@ -1,0 +1,17 @@
+---
+title: "Practica 2"
+author: "Ítalo Sánchez"
+format: html
+editor: visual
+---
+
+## Introduction
+
+## Formulation of the Marko Decision Process
+
+## Model Dynamics
+
+## Description and Justification of the Cost (Reward)
+
+## Justification of the actions
+
